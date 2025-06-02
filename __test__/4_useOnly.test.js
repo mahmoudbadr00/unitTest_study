@@ -1,6 +1,6 @@
 const theSum = require("../sum");
 
-// ONLY
+// ONLY // skip
 // test.only(name, fn, timeout) or describe.only(name, fn, timeout)
 // it tests only what i write only on it
 // rest of tests , describes are skipped if not called with .only() or .skip()
